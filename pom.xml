@@ -39,7 +39,7 @@
             <artifactId>maven-war-plugin</artifactId>
             <version>2.3</version>
             <configuration>
-             <warName>SampleDemo-1.0-SNAPSHOT.war</warName>
+             <warName>SampleDemo</warName>
              <outputDirectory>D:\Software\apache-tomcat-8.0.35\apache-tomcat-8.0.35\webapps</outputDirectory>
             </configuration>
         </plugin>
